@@ -1,0 +1,20 @@
+---
+title: Want to contribute?
+subtitle: Website Design
+layout: default
+modal-id: 5
+date: 2014-10-17
+img: contribute.png
+thumbnail: harvest_logo.png
+alt: 
+project-date: October 2014
+client: Start Bootstrap
+category: Web Development
+description: HarvestAPI is an open source project. We’re still in beta and always looking for feedback and contributions. Here are ways you can contribute?
+ 					Fork the code
+ 					Post issues, bugs or feature requests
+ 					Get in touch!
+					
+					Want more information or help bringing HarvestAPI to your agriculture agency?
+
+---

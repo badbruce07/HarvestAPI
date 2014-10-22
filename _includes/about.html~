@@ -1,0 +1,53 @@
+<!-- About Section -->
+<section id="about">
+	
+	<div class="container">
+            
+		<div class="row">
+      
+      	<div class="row text-center">
+         
+         	<div class="col-md-4">
+                   
+            	<p class="text-muted1"> Who should use it? </p>
+               <ul class="list-user">
+               
+               	<li> Farmers </li>
+                  <li> Supermarkets </li>
+                  <li> Startups </li>
+                  <li> Government Agencies </li>
+                  <li> Academia </li>
+                  <li> Financial Institutions </li>
+              	</ul>
+					
+					<br/>                    
+               
+               <p class="text1 col-md-12" > 
+               Want to learn how you can too can build interesting products using HarvestAPI? 
+               Check out our documentation here! 
+               </p>
+               
+         	</div>
+                
+          	<div class="col-md-6" id="panel_platform">
+            
+            	<p id="plat_heading"> Platform Launch Partners </p>
+               <h3 id="align_perform">
+               	Want to learn how startups are already using the information in HarvestAPI? 
+                	Check out our two launch partners 
+               </h3>
+               
+               <br/><br/>
+					
+					<div class="col-md-6">
+						<img src="./img/platform/project_agro.png" alt="">
+					</div>                	
+                	
+               <div class="col-md-6">
+						<img src="./img/platform/clever_grocer.png" alt="">
+					</div>
+          	</div>
+        	</div>
+     	</div>
+	</div>
+</section>

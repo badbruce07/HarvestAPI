@@ -1,0 +1,15 @@
+---
+title: Supporting Collaboration
+subtitle: Website Design
+layout: default
+modal-id: 6
+date: 2014-10-17
+img: large_logos.png
+thumbnail: harvest_logo.png
+alt: 
+project-date: October 2014
+client: Start Bootstrap
+category: Web Development
+description: HarvestAPI was made possible by a collaboration between RADA, Code For the Caribbean, Slashroots Foundation, UWI Mona School of Business, The Caribbean Open Institute and IDRC/CRDI
+
+---

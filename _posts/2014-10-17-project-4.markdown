@@ -1,0 +1,15 @@
+---
+title: Who should use it?
+subtitle: Website Design
+layout: default
+modal-id: 4
+date: 2014-10-17
+img: project_agro.png, clever_grocer.png
+thumbnail: harvest_logo.png
+alt: 
+project-date: October 2014
+client: Start Bootstrap
+category: Web Development
+description: Platform Launch Partners
+
+---

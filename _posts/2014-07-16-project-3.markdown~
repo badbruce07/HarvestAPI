@@ -1,0 +1,15 @@
+---
+title: What Does It Give You?
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2014-10-17
+img: icon-tracktor.png, icon-price.png, icon-farmer.png
+thumbnail: harvest_logo.png
+alt: image-alt
+project-date: October 2014
+client: Start Bootstrap
+category: Web Development
+description: HarvestAPI gives you on-demand access to the information that powers the agriculture industry.
+
+---
